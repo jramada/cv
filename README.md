@@ -6,7 +6,7 @@
 
 ## Professional Experience
 
-**Software Engineer** @ 3kTeck(https://bryter.io/) _(Fev 2020 - Present)_ <br>
+**Software Engineer** @ 3kTeck(https://3ktech.pt/) _(Fev 2020 - Present)_ <br>
 
 IT Consultant @ EDP:
 - Application Maintenance and Support;
@@ -21,7 +21,7 @@ Projects @ 3Ktech:
 - Ruby on Rails;
 <br><br>
 
-**Software Engineer** @ Linkpoint _(Fev 2020 - Present)_ <br>
+**Software Engineer** @ Linkpoint _(Jan 2017 - Dec 2019)_ <br>
 - IT Consultant @ EDP
   - **_Technologies used:_** Arduino, Ionic, Firebase.
 - Linkpoint Apps and Devices projects
