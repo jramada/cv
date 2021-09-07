@@ -6,7 +6,7 @@
 
 ## Professional Experience
 
-**Software Engineer** @ 3kTeck(https://3ktech.pt/) _(Fev 2020 - Present)_ <br>
+**Software Engineer** @ [3KTech](https://3ktech.pt/) _(Fev 2020 - Present)_ <br>
 
 IT Consultant @ EDP:
 - Application Maintenance and Support;
