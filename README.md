@@ -46,6 +46,8 @@ Projects @ Linkpoint
 
 **Videogame Demos**
   - **_Technologies used:_** Godot Engine.
+<br><br>
+
 
 ## Languages 
 
@@ -62,6 +64,7 @@ Projects @ Linkpoint
 **Engineer's Degree in Computer Networks and Multimedia**<br>
 - @ ISEL - Instituto Superior de Engenharia de Lisboa, Lisboa (Portugal) _(2010 - 2014)_ <br>
 
+<br><br>
 
 ## Honours and awards
 
