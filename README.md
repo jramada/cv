@@ -6,36 +6,51 @@
 
 ## Professional Experience
 
-**Software Engineer** @ [3KTech](https://3ktech.pt/) _(Jan 2020 - Present)_ <br>
+**Software Engineer** @ [3KTech](https://3ktech.pt/) _(Jan 2020 - Present)_  
+**IT Consultant** @ EDP
+- Developed full-stack solutions for the GEM division.
+- Created advanced information extraction and business automation tools.
+- Mentored a small team of junior developers, providing guidance and support.
+- Assisted in project management activities, coordinating tasks and timelines to ensure project delivery.
+- Led application maintenance and support for critical ETL systems.
 
-IT Consultant @ EDP:
-- Application Maintenance and Support;
-- Software develop for UNGE division:
-- Fullstack solutions;
-- Information Extraction tools;
-- Business Automation Tools;
+**_Technologies used:_** Node.js, Python, Java, OracleDB, Postgres, Angular, Azure, Azure DevOps, Excel VBA
 
-**_Technologies used:_** Java, OracleDB, Excel VBA, Node JS, Angular, PHP, Azure Devops.
+**Projects @ 3KTech:**
+- Engineered full-stack solutions for diverse business needs.
+- App development projects, delivering high-quality software.
+- Provided technical leadership to junior developers.
 
-Projects @ 3Ktech:
-- App development;
-- Fullstack projects;
+**_Technologies used:_** Node.js, React, PostgreSQL, MySQL, Ionic
 
-**_Technologies used:_** React, Postgres, Mysql, Ruby, Rails, Node JS.
-<br><br>
+<br>
 
-**Software Engineer** @ Linkpoint _(Jan 2017 - Dec 2019)_ <br>
+**Software Engineer** @ Linkpoint _(Jan 2017 - Dec 2019)_  
+**IT Consultant** @ EDP
+- Developed ETL solutions, streamlining operations and improving efficiency.
+- Maintained and enhanced software systems.
 
-IT Consultant @ EDP
+**_Technologies used:_** Java, OracleDB, Excel VBA, Node.js, Angular, PHP, Azure, Azure DevOps
 
-**_Technologies used:_** Java, OracleDB, Excel VBA, Node JS, Angular, PHP, Azure Devops.
- 
-Projects @ Linkpoint
-- App development;
-- Devices Prototypes;
-- Unix-like VPS Admin and Maintenance.
+**Projects @ Linkpoint:**
+- Designed and prototyped IoT devices.
+- Administered and maintained Unix-like VPS, ensuring security and performance.
 
-**_Technologies used:_** Arduino, Ionic, Node JS, Firebase, Postgres, GoLang.
+**_Technologies used:_** Arduino, Ionic, Node.js, Firebase, PostgreSQL, GoLang
+
+<br>
+
+### Key Achievements
+- Consistently delivered projects that meet client expectations.
+- Improved system performance and reliability through proactive maintenance and innovative solutions.
+- Recognized for outstanding problem-solving skills and the ability to deliver adequate solutions.
+
+### Technical Skills
+- **Languages:** Node.js, Python Java, PHP and others.
+- **Databases:** OracleDB, PostgreSQL, SQLServer.
+- **Frameworks and Tools:** Node Frameworks (Express, Nestjs, TypeScript), Python (FastApi, Pandas, Numpy), Angular, React and others.
+- **DevOps and Cloud:** Azure Cloud, Azure DevOps.
+- **Other:** Information Extraction, Business Automation, ETL processes.
 
 <br><br>
 
@@ -54,6 +69,7 @@ Projects @ Linkpoint
 **Portuguese**: Native <br>
 **English**: C2 (CEFR) <br>
 **Spanish**: B1 (CEFR) <br>
+**German**: Learning ATM <br>
 <br><br>
 
 ## Education 
